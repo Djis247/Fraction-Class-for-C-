@@ -82,7 +82,7 @@ Fraction::lcd(6, 7); //It will return 42 because it is the smallest number both 
 # -------------------------------------------------------------------
 ###### 4
 - Object functions
-There are some functions that come with this class that work with the functions.
+There are some functions that come with this class that work with the objects.
 Such as:
 ```
 Fraction test{ 6, 9 }; //Our fraction named test
