@@ -4,7 +4,7 @@ Designed for those who think that C++ is not compatible with fraction Math and
 other things that require the use of fractions.
 
 ## Contents
-- [How to use this class!]()
+- [How to use this class!](#how-to-use-the-fraction-class)
 	- [Creating a fraction]()
 	- [Fraction Arithmetic]()
 	- Functions
