@@ -5,11 +5,12 @@ other things that require the use of fractions.
 
 ## Contents
 - [How to use this class!](#how-to-use-the-fraction-class)
-	- [Creating a fraction](#2)
-	- [Fraction Arithmetic](#3)
+	- [Creating a fraction](#1)
+	- [Fraction Arithmetic](#2)
 	- Functions
-		- [Special Functions](#4)
-		- [Object Functions](#5)
+		- [Special Functions](#3)
+		- [Object Functions](#4)
+	- [Signs](#5)
 	- [Comparison](#6)
 
 
@@ -19,6 +20,7 @@ other things that require the use of fractions.
 If you don't know how to install or use C++ classes, than you probably don't belong here.
 Otherwise, continue.
 # -------------------------------------------------------------------
+###### 1
 - Creating a fraction.
 
 To create a fraction after you included the class `#include <Fraction.h>` you must declare the following:
