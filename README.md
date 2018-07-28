@@ -5,12 +5,12 @@ other things that require the use of fractions.
 
 ## Contents
 - [How to use this class!](#how-to-use-the-fraction-class)
-	- [Creating a fraction]()
-	- [Fraction Arithmetic]()
+	- [Creating a fraction](#2)
+	- [Fraction Arithmetic](#3)
 	- Functions
-		- [Special Functions]()
-		- [Object Functions]()
-	- [Comparison]()
+		- [Special Functions](#4)
+		- [Object Functions](#5)
+	- [Comparison](#6)
 
 
 ### How to use the Fraction class.
@@ -54,6 +54,7 @@ Enter a fraction: 2/3
 You have entered the fraction: 2/3
 ```
 # -------------------------------------------------------------------
+###### 2
 - Fraction Arithmetic
 
 To do simple arithmetic processes simply add, subtract, multiply, or divide each `Fraction` with either another `Fraction` or `int`.
@@ -63,6 +64,7 @@ Fraction f2{ 4 };
 Fraction f3 = f1 * f2; //The Fraction f3 will equal 2 because 1/2 of 4 equals 2
 ```
 # -------------------------------------------------------------------
+###### 3
 - Special functions
 
 This class comes with special functions that can be used with `int`'s.
@@ -76,6 +78,7 @@ Fraction::lcd(6, 7); //It will return 42 because it is the smallest number both 
 ```
 
 # -------------------------------------------------------------------
+###### 4
 - Object functions
 There are some functions that come with this class that work with the functions.
 Such as:
@@ -99,6 +102,7 @@ test.set( 9, 10 ); //Sets the fraction to 9/10 after initialization
 **Fractions can be `static_cast<double>()`.**
 
 # -------------------------------------------------------------------
+###### 5
 - Signs
 
 To set a different sign to a `Fraction` just add either a `+` or a `-` in front of the `Fraction`;
@@ -113,6 +117,7 @@ Fraction test2{ `2, 3 };
 ```
 
 # -------------------------------------------------------------------
+###### 6
 - Comparison
 
 You may Compare either a `Fraction` with a `Fraction`, a `Fraction` with an `int`, or an `int` with a `Fraction`.
